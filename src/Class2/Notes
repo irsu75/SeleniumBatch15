@@ -1,0 +1,37 @@
+      8 Locators
+
+ 1. ID
+ 2. Name
+ 3. Class
+ 4. linktext--> they can only be used with a link and it must have a text( a link is in the tag - a)
+ 5. partialinkText--> they can only be used with a link
+ 6. Tagname
+ 7. xpath
+ 8. CSS Selector
+
+      Why do we need so many locators? :0
+      ---some times there might be a locator with duplicate value
+      ---some times the developers might not provide you with all the locators
+
+
+      there are some important things that you should remember while selecting a locator...
+
+      if a attribute value has a number in it , it is better to avoid it and use an alternative locator.!!!!
+
+      difference in linktext and partial link Text?
+      a partial link text you can use just a part of text,just make sure that is unqiue enough to stand out.
+
+      Locators in selenium help us find the WebElements
+
+      Linktext, partialintext (they can only be used for <a> and it must also have some Text)
+
+      TagName (we just need to pass the tagname and it is going find that particular webelement)
+
+      DOM--> document object model
+      here we have the whole code for the website
+
+      Scenario:
+
+      if there are two elements with the same attribute value what will happen?
+
+      selenium is going to get the first one it encounters.
