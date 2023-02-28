@@ -1,0 +1,29 @@
+     Selenium Review Session:           Selenium only Automation Tool
+
+     Automation Suite
+
+     => Components of Selenium
+          - Selenium IDE {Selenium 1}
+          - Selenium RC  {Selenium 2}
+          - Selenium WebDriver {Selenium 3}-->Selenium [4.x]
+          - Selenium Grid
+
+     Open Source Tool
+           -Visualize
+           -Customize
+           -Contribute
+
+     Free License Tool:
+           Supports multiple browsers: Chrome/Firefox/Safari/Edge/IE/Opera
+           Multiple OS: Windows/Mac/Linux [Unix]
+           Multiple Programming Languages: Java, C#, Python, Ruby, Php, JS
+
+     W3C protocol: World Wide Web Consortium
+
+========================================================================================================================
+1 - To automate only Web Applications
+2 - We can not automate APIs using Selenium
+3 -
+
+=======================================================================================================================
+New Project:
